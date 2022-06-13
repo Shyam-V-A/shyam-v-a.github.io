@@ -1,0 +1,22 @@
+<div class="container mt-5">
+    <div class="card" style="padding: 20px ;">
+        <div class="row">
+            <div class="col-lg-6">
+                <form #translateForm="ngForm" autocomplete="off" (ngSubmit)="translateText(translateForm)">
+                    <div class="form-group">
+                        <label for="translateText" class="form-control">Paste the text below</label>
+                        <input type="text" (ngModel)="translateText" translateText="ngModel" id="translateText" name="translateText">
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="Tranlate Text" id="translateText" name="translateText"
+                            class="btn btn-primary w-100">
+                    </div>
+                </form>
+            </div>
+            <div class="col-lg-6">
+                <ngx-json-viewer [json]="translatedText" [expanded]="true" [depth]="6" *ngIf="translatedText !== undefined"></ngx-json-viewer>
+
+            </div>
+        </div>
+    </div>
+</div>
