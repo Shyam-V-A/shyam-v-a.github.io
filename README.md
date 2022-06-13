@@ -1,5 +1,7 @@
 # FrtAzureCognitiveService
 
+website-url: https://delightful-sea-072753800.1.azurestaticapps.net
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
 
 ## Development server
