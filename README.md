@@ -20,16 +20,16 @@ This project has two parts.
 
 ## Image Recognition
 
-  This part helps to get features and the things that might go unnoticed by many people.  For this we have used **Computer Vision** component of the **MS Azure Cognitive Services**. Here it takes Image URL as input, after submitting it is sent to analyze where we can get details such as name, background colour, dominant colors, objects category, image description and summary. 
+  This part helps to get features and the things that might go unnoticed by many people.  For this we have used `**Computer Vision**` component of the `**MS Azure Cognitive Services**`. Here it takes Image URL as input, after submitting it is sent to analyze where we can get details such as name, background colour, dominant colors, objects category, image description and summary. 
 Also we can use this to generate Title for the image with added features to the project.
 
 ## Translation
 
-  This part take english text as input and prints hindi translated text. For this we have used **Translator component** of the **MS Azure Cognitive Services**. This helps those peoples who want a exact hindi translation of the english statement.
+  This part take english text as input and prints hindi translated text. For this we have used  `**Translator component**` of the `**MS Azure Cognitive Services**`. This helps those peoples who want a exact hindi translation of the english statement.
  
 ## Web Hosting
 
-  The application is hosted on Internet through **Azure Static Web App**. The URL to the same can be found at the top. Also attaching here,
+  The application is hosted on Internet through `**Azure Static Web App**`. The URL to the same can be found at the top. Also attaching here,
   
   https://delightful-sea-072753800.1.azurestaticapps.net
 
