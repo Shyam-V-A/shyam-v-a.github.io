@@ -18,16 +18,18 @@ This project has two parts.
 1. Image Recognition and Analysis
 2. Language Translation 
 
-###Image Recognition: 
+Image Recognition: 
+
   This part helps to get features and the things that might go unnoticed by many people. Here it takes Image URL as input, after submitting it is sent to analyze where we can get details such as name, background colour, dominant colors, objects category, image description and summary. 
 Also we can use this to generate Title for the image with added features to the project.
 
-###Translation: 
+Translation: 
+
   This part take english text as input and prints hindi translated text. For this we have used translate component of the MS Azure Cognitive Services. This helps those peoples who want a exact hindi translation of the english statement.
 
-####  The entire Application is mainly focused on making efficient use of Microsoft Azure and mainly its Cognitive Services.
+  The entire Application is mainly focused on making efficient use of Microsoft Azure and mainly its Cognitive Services.
 
-####  The application is hosted on Internet through Azure Static Web App. The URL to the same can be found at the top. Also attaching here,
+  The application is hosted on Internet through Azure Static Web App. The URL to the same can be found at the top. Also attaching here,
 
 ###https://delightful-sea-072753800.1.azurestaticapps.net
 
@@ -59,4 +61,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-##Thanks for Future Ready Talent team, Microsoft, Future Skills Prime, Nasscom for providing me such a wonderful oppertunity.
+Thanks for Future Ready Talent team, Microsoft, Future Skills Prime, Nasscom for providing me such a wonderful oppertunity.
