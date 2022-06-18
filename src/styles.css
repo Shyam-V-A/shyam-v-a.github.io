@@ -1,1 +1,4 @@
-/* You can add global styles to this file, and also import other style files */
+body{
+    background: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcontent.techgig.com%2Fthumb%2Fmsid-78292309%2Cwidth-860%2Cresizemode-4%2FMicrosoft-announces-new-features-to-Azure-Cognitive-Services-and-Azure-Machine-Learning.jpg%3F107625&f=1&nofb=1);
+    background-size: cover;
+}
