@@ -42,7 +42,7 @@ Also we can use this to generate Title for the image with added features to the 
 
   The entire Application is mainly focused on making efficient use of Microsoft Azure and mainly its Cognitive Services.
 
-The description of building the project loically is given below.
+### The description of building the project loically is given below.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
 
