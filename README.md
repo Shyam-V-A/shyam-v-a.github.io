@@ -2,6 +2,8 @@
 
 website-url: https://delightful-sea-072753800.1.azurestaticapps.net
 
+**I have changed my project topic. As I could not change synopsis, I have updated details in the final project submission portal. Please do consider that details and ignore the synopsis submission.**
+
 ## Home Page
 
 <img width="960" alt="image" src="https://user-images.githubusercontent.com/73156194/174418552-8dcac7ef-74c5-4675-ab7d-2840129d81aa.png">
