@@ -2,7 +2,7 @@
 
 website-url: https://delightful-sea-072753800.1.azurestaticapps.net
 
-**I have changed my project topic. As I could not change synopsis, I have updated details in the final project submission portal. Please do consider that details and ignore the synopsis submission.**
+**I have changed my project topic. As I could not change the synopsis, I have updated the details in the final project submission portal. Please consider those details and ignore the synopsis submission.**
 
 ## Home Page
 
@@ -22,16 +22,16 @@ This project has two parts.
 
 ## Image Recognition
 
-  This part helps to get features and the things that might go unnoticed by many people.  For this we have used `**Computer Vision**` component of the `**MS Azure Cognitive Services**`. Here it takes Image URL as input, after submitting it is sent to analyze where we can get details such as name, background colour, dominant colors, objects category, image description and summary. 
-Also we can use this to generate Title for the image with added features to the project.
+  This part helps to get features and the things that might go unnoticed by many people.  We have used the `**Computer Vision**` component of the `**MS Azure Cognitive Services**`. Here it takes the Image URL as an input, after submitting it is sent to analyze where we can get details such as name, background colour, dominant colours, objects category, image description and summary. 
+Also, we can use this to generate a Title for the image with added features to the project.
 
 ## Translation
 
-  This part take english text as input and prints hindi translated text. For this we have used  `**Translator component**` of the `**MS Azure Cognitive Services**`. This helps those peoples who want a exact hindi translation of the english statement.
+  This part takes English text as input and prints Hindi-translated text. We have used  the `**Translator component**` of the `**MS Azure Cognitive Services**`. This helps people who want an exact Hindi translation of the English statement.
  
 ## Web Hosting
 
-  The application is hosted on Internet through `**Azure Static Web App**`. The URL to the same can be found at the top. Also attaching here,
+  The application is hosted online through `**Azure Static Web App**`. The URL to the same can be found at the top. Also attaching here,
   
   https://delightful-sea-072753800.1.azurestaticapps.net
 
@@ -42,9 +42,9 @@ Also we can use this to generate Title for the image with added features to the 
 3. Azure Language Translation
 4. Azure Static Web App
 
-  The entire Application is mainly focused on making efficient use of Microsoft Azure and mainly its Cognitive Services.
+  The entire Application is mainly focused on efficiently using Microsoft Azure and its Cognitive Services.
 
-### The description of building the project loically is given below.
+### The description of building the project logically is given below.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
 
@@ -58,7 +58,7 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `docs/` directory.
+Run `ng build` to build the project. The build artefacts will be stored in the `docs/` directory.
 
 ## Running unit tests
 
@@ -66,11 +66,11 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 ## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. You'll first need to add a package that implements end-to-end testing capabilities to use this command.
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+To get more help on the Angular CLI use `ng help` or check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-# Thanks for Future Ready Talent team, Microsoft, Future Skills Prime, Nasscom for providing me such a wonderful oppertunity.
+# Thanks to the Future Ready Talent team, Microsoft, Future Skills Prime, and Nasscom for providing me with such a wonderful opportunity.
 
